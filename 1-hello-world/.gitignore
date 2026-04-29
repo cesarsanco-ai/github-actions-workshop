@@ -8,3 +8,6 @@ venv/
 *.egg-info/
 dist/
 build/
+.DS_Store
+.vscode/
+.idea/
